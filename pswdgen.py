@@ -1,7 +1,7 @@
 import random
 import string
 
-length = int(input("How long should the password be? "))
+length = int(input("9"))
 
 characters = string.ascii_letters + string.digits + "!@#$%^&*"
 
